@@ -1,0 +1,21 @@
+.head-obj .col1 .obj_type, .head-obj .col1 .cena{margin-left: -680px;}
+.but_l, .but_r{	margin-left: -644px;}
+.but_r{	margin-left: -390px;}
+.head-obj .col2 .ttl{margin-bottom: 0px;}
+.head-obj .col2 .c1,
+.head-obj .col2 .c2,
+.head-obj .col2 .c3,
+.head-obj .col2 .c4,
+.head-obj .col2 .c5{height: 22px; }
+.head-obj .col2 .c2{width: 173px;}
+.head-obj .col2 sup{font-size: 10px; line-height: 20px;}
+.scol2 form{display: block; clear: both;}
+#one_col .search .scol2 .button{margin: 100px 0px 0 -178px;}
+#object .col1 .gal .next{margin-left: 358px;}
+#object .col1 .obj_type,
+#object .col1 .cena{	margin-left: -363px;}
+
+#one_col .search .scol2 .sc1 .c1{width: 110px;}
+#one_col .search .scol2  .c6{width: 180px;}
+#one_col .search .scol2  .c6 input{line-height: 22px; margin-right: 0px;}
+#one_col .search .scol2  .c6 label{margin-right: 0px;}
